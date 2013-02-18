@@ -1,0 +1,5 @@
+r-cran-dichromat (2.0.0-1) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Benjamin Eikel <debian@eikel.org>  Mon, 18 Feb 2013 14:36:37 +0100
